@@ -1,0 +1,34 @@
+
+Model
+
+Every commit is immutable. It never changes.
+
+You're only ever adding. Never deleting.
+So how do I delete? Add a deletion.
+When you change the past, you're fucking everyone who has the present.
+Your repository is an aggregation of all your commits... all your additions and deletions.
+A branch is a named commit.
+
+Make sure you add a commit -m to any changes
+
+
+Cardinal Rules
+
+* Commit constantly
+* run git status after everything you do.
+
+Practice this
+
+Make a waypoint in front of you, then you can practice
+
+git init - creates a commit.
+git status - gs - runs git status
+git add - ga - git add a file.
+
+git commit -m "Add a clear short message."
+
+git log  shows the log of the git (gh -l condense version.)
+
+git diff - gd - shows the differences
+
+man git = git manual

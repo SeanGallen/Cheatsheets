@@ -1,0 +1,16 @@
+mkdir a b c a/lol a/wtf c/bbq
+
+cd omg
+
+ls -l -a
+
+cleear
+
+cat file1
+
+cat file1 file2
+
+rm -r somedir
+
+
+
